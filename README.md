@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VAL1SOR
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in engineering.
 - 💞️ I’m looking to collaborate on a project.
 - 📫 How to reach me raduvalentinsatmari@gmail.com
 
